@@ -7,5 +7,5 @@
 
 ```sh
 npm i -D tslint-config-slikts
-echo '{ "rulesDirectory": ["node_modules/tslint-config-slikts"] }' > tslint.json
+echo '{ "extends": "tslint-config-slikts" }' > tslint.json
 ```
