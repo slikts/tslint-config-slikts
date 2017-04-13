@@ -1,0 +1,21 @@
+{
+  "name": "tslint-config-slikts",
+  "version": "1.0.0",
+  "description": "👾💪",
+  "main": "tslint.json",
+  "keywords": [
+    "tslint",
+    "slikts",
+    "airbnb"
+  ],
+  "author": "slikts <dabas@untu.ms>",
+  "license": "MIT",
+  "dependencies": {
+    "tslint-config-airbnb": "^1.1.1",
+    "typescript": "^2.3.0-dev.20170413"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:slikts/tslint-config-slikts.git"
+  }
+}
