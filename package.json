@@ -11,8 +11,7 @@
   "author": "slikts <dabas@untu.ms>",
   "license": "MIT",
   "dependencies": {
-    "tslint-config-airbnb": "^5.9.2",
-    "typescript": "^2.9.2"
+    "tslint-config-airbnb": "^5.9.2"
   },
   "repository": {
     "type": "git",
