@@ -10,6 +10,6 @@
       "protected-method-regex": "^\\*?\\[?[a-zA-Z][\\w\\d\\.]+\\]?$",
       "static-method-regex": "^\\*?\\[?[a-zA-Z][\\w\\d\\.]+\\]?$",
       "function-regex": "^\\*?\\[?[a-zA-Z][\\w\\d\\.]+\\]?$"
-    }], 
+    }]
   }
 }
